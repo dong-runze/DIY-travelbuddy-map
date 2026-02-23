@@ -5,7 +5,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.X-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 TravelBuddy is an interactive, UGC-driven spatial mapping tool. It goes beyond traditional text-based travel notes by allowing users to create, edit, and share personalized micro-maps (e.g., Campus tours, hidden food trails) with full data ownership.
-
+![demo-封面](https://github.com/user-attachments/assets/90dbbdd0-0114-43e0-8a3c-90d7e23e8e86)
 ## ✨ Key Features
 
 * **🖱️ Drag & Drop Spatial Editing**: Right-click to clone markers, drag them to new locations, and seamlessly update their data in real-time.
