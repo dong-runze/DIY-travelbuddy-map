@@ -35,3 +35,5 @@ During development, several deep architectural challenges were solved:
    ```bash
    npm run dev
 4. Try the Demo: Click "Import" in the app and select the 🚀 my-ntu-map.json 🚀file included in this repo to see a working example of Nanyang Technological University!
+<img width="2146" height="144" alt="屏幕截图 2026-02-23 191313" src="https://github.com/user-attachments/assets/52584686-bf83-4a39-a0b2-884ce5c74baa" />
+
