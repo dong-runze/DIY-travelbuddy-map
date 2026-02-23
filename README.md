@@ -6,6 +6,7 @@
 
 TravelBuddy is an interactive, UGC-driven spatial mapping tool. It goes beyond traditional text-based travel notes by allowing users to create, edit, and share personalized micro-maps (e.g., Campus tours, hidden food trails) with full data ownership.
 ![demo-封面](https://github.com/user-attachments/assets/90dbbdd0-0114-43e0-8a3c-90d7e23e8e86)
+https://github.com/user-attachments/assets/842f2e82-ba63-4663-8bf9-2a0d2db0eb8f
 ## ✨ Key Features
 
 * **🖱️ Drag & Drop Spatial Editing**: Right-click to clone markers, drag them to new locations, and seamlessly update their data in real-time.
@@ -30,4 +31,4 @@ During development, several deep architectural challenges were solved:
 3. Run the development server:
    ```bash
    npm run dev
-4. Try the Demo: Click "Import" in the app and select the data/ntu-demo.json file included in this repo to see a working example of Nanyang Technological University!
+4. Try the Demo: Click "Import" in the app and select the 🚀 my-ntu-map.json 🚀file included in this repo to see a working example of Nanyang Technological University!
