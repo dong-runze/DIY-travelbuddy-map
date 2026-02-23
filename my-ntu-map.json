@@ -1,0 +1,250 @@
+[
+  {
+    "id": "3",
+    "name": "North Spine Food Court",
+    "nameZh": "北纬美食广场",
+    "category": "dining",
+    "lat": 1.3485972326841307,
+    "lng": 103.68164788230303,
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800",
+    "openingHours": "Daily: 7:00 AM - 10:00 PM",
+    "introduction": "One of the largest food courts on campus with diverse Asian cuisine options.",
+    "introductionZh": "校园内最大的美食广场之一，提供多样的亚洲美食选择。",
+    "features": [
+      "Asian Cuisine",
+      "Western Food",
+      "Vegetarian Options"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Nanyang Technological University",
+    "nameZh": "南洋理工大学",
+    "category": "landmark",
+    "lat": 1.3462,
+    "lng": 103.6798,
+    "imageUrl": "https://images.unsplash.com/photo-1562774053-701939374585?w=800",
+    "openingHours": "Open 24 hours",
+    "introduction": "NTU is one of the top universities in Singapore and Asia, known for its research and innovation.",
+    "introductionZh": "南洋理工大学是新加坡和亚洲顶尖大学之一，以研究和创新著称。",
+    "features": [
+      "World-Class Research",
+      "Beautiful Campus",
+      "Sports Facilities"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "School of Computer Engineering",
+    "nameZh": "计算机工程学院",
+    "category": "school",
+    "lat": 1.344275,
+    "lng": 103.68212,
+    "imageUrl": "https://images.unsplash.com/photo-162774053-701939374585?w=800",
+    "openingHours": "Mon-Fri: 8:00 AM - 9:00 PM",
+    "introduction": "The School of Computer Engineering offers cutting-edge programs in AI, cybersecurity, and software engineering.",
+    "introductionZh": "计算机工程学院提供人工智能、网络安全和软件工程等前沿课程。",
+    "features": [
+      "AI Lab",
+      "Cybersecurity Lab",
+      "Software Engineering"
+    ],
+    "isUserCreated": true
+  },
+  {
+    "id": "7",
+    "name": "The Steak House",
+    "nameZh": "牛排屋",
+    "category": "dining",
+    "lat": 1.346983,
+    "lng": 103.680109,
+    "imageUrl": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?w=800",
+    "openingHours": "Daily: 11:00 AM - 9:00 PM",
+    "introduction": "Popular Western restaurant known for its premium steaks and cozy atmosphere.",
+    "introductionZh": "以优质牛排和舒适氛围闻名的热门西餐厅。",
+    "features": [
+      "Western Cuisine",
+      "Premium Steaks",
+      "Cozy Atmosphere"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Art & Design Museum",
+    "nameZh": "艺术设计博物馆",
+    "category": "landmark",
+    "lat": 1.3416905254535065,
+    "lng": 103.68141107698169,
+    "imageUrl": "https://images.unsplash.com/photo-1562783534-c5d2a5d5e5e5?w=800",
+    "openingHours": "Tue-Sun: 10:00 AM - 6:00 PM",
+    "introduction": "A museum showcasing contemporary art and design exhibitions from around the world.",
+    "introductionZh": "展示来自世界各地当代艺术和设计展览的博物馆。",
+    "features": [
+      "Contemporary Art",
+      "Design Exhibitions",
+      "Interactive Displays"
+    ]
+  },
+  {
+    "id": "clone-1771763709796",
+    "name": "The Steak House",
+    "nameZh": "牛排屋",
+    "category": "dining",
+    "lat": 1.346549,
+    "lng": 103.684695,
+    "imageUrl": "https://images.unsplash.com/photo-1550966871-3ed3cdb5ed0c?w=800",
+    "openingHours": "Daily: 11:00 AM - 9:00 PM",
+    "introduction": "Popular Western restaurant known for its premium steaks and cozy atmosphere.",
+    "introductionZh": "以优质牛排和舒适氛围闻名的热门西餐厅。",
+    "features": [
+      "Western Cuisine",
+      "Premium Steaks",
+      "Cozy Atmosphere"
+    ],
+    "isUserCreated": true
+  },
+  {
+    "id": "clone-1771764625652",
+    "name": "Art & Design Museum",
+    "nameZh": "艺术设计博物馆",
+    "category": "landmark",
+    "lat": 1.3432,
+    "lng": 103.6782,
+    "imageUrl": "https://images.unsplash.com/photo-1562783534-c5d2a5d5e5e5?w=800",
+    "openingHours": "Tue-Sun: 10:00 AM - 6:00 PM",
+    "introduction": "A museum showcasing contemporary art and design exhibitions from around the world.",
+    "introductionZh": "展示来自世界各地当代艺术和设计展览的博物馆。",
+    "features": [
+      "Contemporary Art",
+      "Design Exhibitions",
+      "Interactive Displays"
+    ],
+    "isUserCreated": true
+  },
+  {
+    "id": "clone-1771766143073",
+    "name": "School of Computer Engineering",
+    "nameZh": "计算机工程学院",
+    "category": "school",
+    "lat": 1.346131,
+    "lng": 103.681978,
+    "imageUrl": "https://media.licdn.com/dms/image/v2/C561BAQE81WjV2q6kog/company-background_10000/company-background_10000/0/1621766526536/ntu_csec_cover?e=2147483647&v=beta&t=zAEfSDY6lEv5YgCN86H5yhmgF7KtQ4SZF7jgzBdOJr4",
+    "openingHours": "Mon-Fri: 8:00 AM - 9:00 PM",
+    "introduction": "The School of Computer Engineering offers cutting-edge programs in AI, cybersecurity, and software engineering.",
+    "introductionZh": "计算机工程学院提供人工智能、网络安全和软件工程等前沿课程。",
+    "features": [
+      "AI Lab",
+      "Cybersecurity Lab",
+      "Software Engineering"
+    ],
+    "isUserCreated": true
+  },
+  {
+    "id": "clone-1771768473751",
+    "name": "NTU Photo Spot",
+    "nameZh": "NTU",
+    "category": "special",
+    "lat": 1.350003,
+    "lng": 103.685435,
+    "imageUrl": "https://cdn.theonlinecitizen.com/uploads/2025/06/22191254/NTU-singapore.png",
+    "openingHours": "Open 24 hours",
+    "introduction": "A popular photo spot where local singer Sun Yanzi used to take photos. A must-visit for fans!",
+    "introductionZh": "本地歌手孙燕姿曾经拍照的热门打卡点，粉丝必访！",
+    "features": [
+      "Photo Spot",
+      "Scenic View",
+      "Instagram Famous"
+    ],
+    "isUserCreated": true
+  },
+  {
+    "id": "clone-1771769086766",
+    "name": "Sun Yanzi Photo Spot",
+    "nameZh": "孙燕姿打卡点",
+    "category": "special",
+    "lat": 1.35027,
+    "lng": 103.685639,
+    "imageUrl": "https://picx.zhimg.com/v2-93d6ac3b54f3c99c1306d081c39ab2b1_1440w.jpg",
+    "openingHours": "Open 24 hours1",
+    "introduction": "A popular photo spot where local singer Sun Yanzi used to take photos. A must-visit for fans!",
+    "introductionZh": "本地歌手孙燕姿曾经拍照的热门打卡点，粉丝必访！",
+    "features": [
+      "Photo Spot",
+      "Scenic View",
+      "Instagram Famous"
+    ],
+    "isUserCreated": true
+  },
+  {
+    "id": "clone-1771807719469",
+    "name": "The HIVE",
+    "nameZh": "小笼包",
+    "category": "landmark",
+    "lat": 1.343031,
+    "lng": 103.682731,
+    "imageUrl": "https://stubard.com/wp-content/uploads/2024/11/Nanyang-Technological-University-1.jpg",
+    "openingHours": "Tue-Sun: 10:00 AM - 6:00 PM",
+    "introduction": "A museum showcasing contemporary art and design exhibitions from around the world.",
+    "introductionZh": "展示来自世界各地当代艺术和设计展览的博物馆。",
+    "features": [
+      "Contemporary Art",
+      "Design Exhibitions",
+      "Interactive Displays"
+    ],
+    "isUserCreated": true
+  },
+  {
+    "id": "clone-1771810920067",
+    "name": "华裔馆",
+    "nameZh": "华裔馆",
+    "category": "landmark",
+    "lat": 1.343695,
+    "lng": 103.684024,
+    "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/6d/39/15/chinese-heritage-centre.jpg?w=1200&h=-1&s=1",
+    "openingHours": "Tue-Sun: 10:00 AM - 6:00 PM",
+    "introduction": "A museum showcasing contemporary art and design exhibitions from around the world.",
+    "introductionZh": "展示来自世界各地当代艺术和设计展览的博物馆。",
+    "features": [
+      "Contemporary Art",
+      "Design Exhibitions",
+      "Interactive Displays"
+    ],
+    "isUserCreated": true
+  },
+  {
+    "id": "clone-1771813032627",
+    "name": "ntu gate",
+    "nameZh": "南洋大学",
+    "category": "landmark",
+    "lat": 1.342503,
+    "lng": 103.685049,
+    "imageUrl": "https://picture01.52hrttpic.com/image/infoImage/202401/27/K1706145704077.png?767x337",
+    "openingHours": "Tue-Sun: 10:00 AM - 6:00 PM",
+    "introduction": "A museum showcasing contemporary art and design exhibitions from around the world.",
+    "introductionZh": "展示来自世界各地当代艺术和设计展览的博物馆。",
+    "features": [
+      "Contemporary Art",
+      "Design Exhibitions",
+      "Interactive Displays"
+    ],
+    "isUserCreated": true
+  },
+  {
+    "id": "clone-1771814294278",
+    "name": "NBS",
+    "nameZh": "GAIA",
+    "category": "school",
+    "lat": 1.341873,
+    "lng": 103.68337,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo2dckkzpDLgmXCJcrJ3J1z74hCqJeGR9eUA&s",
+    "openingHours": "Mon-Fri: 8:00 AM - 9:00 PM",
+    "introduction": "The School of Computer Engineering offers cutting-edge programs in AI, cybersecurity, and software engineering.",
+    "introductionZh": "计算机工程学院提供人工智能、网络安全和软件工程等前沿课程。",
+    "features": [
+      "AI Lab",
+      "Cybersecurity Lab",
+      "Software Engineering"
+    ],
+    "isUserCreated": true
+  }
+]
